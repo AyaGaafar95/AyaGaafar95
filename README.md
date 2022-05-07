@@ -57,7 +57,8 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayagaafar95&show_icons=true&locale=en&layout=compact" alt="ayagaafar95" />
 
 </p>
-
+ </br>
+ </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayagaafar95&show_icons=true&locale=en" alt="ayagaafar95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayagaafar95&" alt="ayagaafar95" /></p>    
