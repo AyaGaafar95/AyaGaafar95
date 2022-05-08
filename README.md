@@ -6,8 +6,10 @@
 <h3 align="center">A passionate frontend developer from Cairo, Egypt</h3>
 </br>
 
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Aya;Front-end+Web+developer;" alt="Aya-Jaafar" />
 
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=F93FE9&lines=Hey!+I'm+Aya;Front-end+Web+developer;" alt="Aya-Jaafar" />
+</br>
 
  
 
