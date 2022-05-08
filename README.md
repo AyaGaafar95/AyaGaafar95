@@ -4,13 +4,14 @@
 
  <h1 align="center">Hi 👋, I'm Aya Jaafar </h1>
 <h3 align="center">A passionate frontend developer from Cairo, Egypt</h3>
+</br>
 
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Aya;Front-end+Web+developer;" alt="Aya-Jaafar" />
 
 
  
 
-
-- 🔭 I’m currently working on [weather-app](https://weather-app-weld-three.vercel.app/) 
+ - 🔭 I’m currently working on [weather-app](https://weather-app-weld-three.vercel.app/) 
 
 - 🌱 I’m currently learning **Html , CSS , Js ,ES6 ,Bootstrap, TypeScript,Angular+2,Angular Material,Git,GitHub , Responsive Web Design**
 
