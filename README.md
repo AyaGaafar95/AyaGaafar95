@@ -10,7 +10,7 @@
  
 
 
-- 🔭 I’m currently working on [weather-app](https://weather-app-weld-three.vercel.app/)  ![Happy Pride! - Love Wins](https://user-images.githubusercontent.com/72417447/167210203-c7ec15f0-e876-4432-9b46-21a9249aa030.png)
+- 🔭 I’m currently working on [weather-app](https://weather-app-weld-three.vercel.app/) 
 
 - 🌱 I’m currently learning **Html , CSS , Js ,ES6 ,Bootstrap, TypeScript,Angular+2,Angular Material,Git,GitHub , Responsive Web Design**
 
