@@ -16,7 +16,7 @@
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/72417447/167630558-54978a20-9649-445b-8201-17d8f0ad8465.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<!--   <img src="https://user-images.githubusercontent.com/72417447/167630558-54978a20-9649-445b-8201-17d8f0ad8465.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
  
 
