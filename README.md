@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rho-one-32.vercel.app/](https://portfolio-rho-one-32.vercel.app/)
 
-- 💬 Ask me about **front-end developer,Angular+2**
+- 💬 Ask me about **front-end developer,Angular17**
 
 - 📫 How to reach me **ayagafar88@gmail.com**
 
